@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Olga Androsova 👋
+# Hi, I'm OllaAmigos 👋
 
 ### ML / Data Analyst · Generative AI Evaluation & Research
 
